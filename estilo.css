@@ -17,6 +17,7 @@ h2{
     color: white;
 }
 
+
 .formulario{
     display: flex;
     justify-content: center;
@@ -72,3 +73,4 @@ footer{
     margin-bottom: 1em;
     font-size: 12px;
 }
+
